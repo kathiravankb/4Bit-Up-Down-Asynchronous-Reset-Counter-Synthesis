@@ -64,15 +64,19 @@ used.
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
 
 #### Synthesis RTL Schematic :
+![WhatsApp Image 2025-05-15 at 11 27 51](https://github.com/user-attachments/assets/dbc7fbcd-b235-44ac-8f10-c9d8a7e24c6c)
 
 #### Area report:
+![WhatsApp Image 2025-05-15 at 11 27 51 (1)](https://github.com/user-attachments/assets/28e3585b-4b01-41c1-bf79-04e3404ed14f)
 
 #### Power Report:
+![WhatsApp Image 2025-05-15 at 11 31 25](https://github.com/user-attachments/assets/7a50e4ff-2450-437b-8074-f2823ad5de1d)
 
 #### Timing Report: 
+![WhatsApp Image 2025-05-15 at 11 31 26](https://github.com/user-attachments/assets/ff97700f-4648-4595-9050-ab5f42b871cd)
 
 #### Result: 
-
+The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
 
 
